@@ -1,0 +1,1 @@
+# transition-i18n-react-native
